@@ -1,0 +1,13 @@
+h1 {
+  font: optional;
+  color: Green;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+  border-radius: 25px;
+  border: 3px solid powderblue; 
+  padding: 5px;
+
+}
